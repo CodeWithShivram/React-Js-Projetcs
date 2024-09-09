@@ -24,6 +24,10 @@ The **Usepopcorn** app allows users to search for movies, view details, and mana
 ![Classy Weather GIF](https://media.giphy.com/media/UVepFaYXcXDbM77YdU/giphy.gif)  
 The **Classy Weather** app provides weather information based on user input. Users can search for a location to get the current weather and a daily forecast. The app fetches weather data from an API and displays icons for different weather conditions, along with temperature ranges for each day. It features a search input, weather display with icons, and the ability to save and retrieve the last searched location from local storage.
 
+### 6. **React Quiz**
+![React Quiz GIF](https://media.giphy.com/media/p4piauYhsMUEKnWVrZ/giphy.gif)  
+The **React Quiz** app is a quiz application that includes features like a start screen, question display, progress indicator, and a finish screen. Users can navigate through questions, track their progress, and view a timer during the quiz. The app handles different states such as loading, error, and active quiz states, using context for managing quiz state and transitions.
+
 ## Installation and Setup
 
 1. Clone the repository:
