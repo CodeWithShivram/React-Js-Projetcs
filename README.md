@@ -13,7 +13,7 @@ A functional component-based pizza menu application that displays various pizzas
 The **Travel List** app helps users manage their packing lists for trips. It allows users to add, delete, and toggle items as packed or unpacked. Key features include a form for adding items, a list to view and manage them, and statistics to track packed versus unpacked items. The app also includes a feature to clear the entire list with a confirmation prompt.
 
 ### 3. **Eat and List**
-![Eat and List GIF](https://giphy.com/embed/flTfLBfE3j5hHkprdU)
+![Eat and List GIF](https://media.giphy.com/embed/flTfLBfE3j5hHkprdU)
 The **Eat and List** app helps users manage and split expenses with friends for meals. It features functionality to add friends, select a friend, and split the bill. Users can view their balances with each friend and adjust expenses based on who is paying. The app supports adding new friends and tracking how much each person owes or is owed.
 
 ## Installation and Setup
