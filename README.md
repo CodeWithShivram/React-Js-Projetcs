@@ -16,6 +16,14 @@ The **Travel List** app helps users manage their packing lists for trips. It all
 ![Eat and List GIF](https://media.giphy.com/media/flTfLBfE3j5hHkprdU/giphy.gif)  
 The **Eat and List** app helps users manage and split expenses with friends for meals. It features functionality to add friends, select a friend, and split the bill. Users can view their balances with each friend and adjust expenses based on who is paying. The app supports adding new friends and tracking how much each person owes or is owed.
 
+### 4. **Usepopcorn**
+![Usepopcorn GIF](https://media.giphy.com/media/6btJR4hqsec4IOLiVh/giphy.gif)  
+The **Usepopcorn** app allows users to search for movies, view details, and manage a list of watched movies. Users can add movies to their watched list, rate them, and view a summary of their watched movies, including average ratings and runtime. Features include movie search, movie details with ratings, and a watched movies list with options to delete entries.
+
+### 5. **Classy Weather**
+![Classy Weather GIF](https://media.giphy.com/media/UVepFaYXcXDbM77YdU/giphy.gif)  
+The **Classy Weather** app provides weather information based on user input. Users can search for a location to get the current weather and a daily forecast. The app fetches weather data from an API and displays icons for different weather conditions, along with temperature ranges for each day. It features a search input, weather display with icons, and the ability to save and retrieve the last searched location from local storage.
+
 ## Installation and Setup
 
 1. Clone the repository:
